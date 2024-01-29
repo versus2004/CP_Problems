@@ -14,7 +14,6 @@ int main() {
         m--;
     }
 
-    cout <<  fact << "\n";
 
     // Count the number of trailing zeros
     while (fact % 10 == 0) {
